@@ -1,0 +1,69 @@
+.body{
+    padding:0;
+    margin:0;
+}
+
+.txt{
+    background-image: url("heart.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: beige;
+    border-radius: 20px;
+}
+
+.checkbox{
+    display: inline;
+}
+
+
+form{
+    border: 0px solid transparent;
+    width: 50%;
+    border-top-right-radius: 70px ;
+    border-bottom-left-radius: 70px ;
+    background-image: url("red.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: bisque;
+    filter: drop-shadow(10%);
+    margin-left: 25%;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.percent{
+   background-image: url("red.jpg");
+   background-size: cover;
+   color: bisque;
+   
+    margin-left: 35%;
+}
+.percent:hover{
+    color: bisque;
+}
+.line{
+    border-bottom: 2px solid black;
+}
+.breaker{
+    margin-right: 20px;
+}
+hr{
+    border: 6px dotted red;
+    border-bottom: none;
+    width: 20%;
+}
+.randomnum{
+    font-size: 2rem;
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+hr{
+    border-bottom: none;
+    border: 2px groove wheat;
+    margin-left: 35%;
+}
